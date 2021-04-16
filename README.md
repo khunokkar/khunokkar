@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS | ML | Deep Learning & new techs
 - 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on full stack projects.
-- 📫 How to reach me ➡ on 🐦 @EthanO_007
+- 📫 How to reach me ➡ on 🐦 @Okkar71
 
 
 <!---
